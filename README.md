@@ -1,5 +1,19 @@
 # zs_604486216_week10_work
-结果为：
+
+在tinymid上运行网址为：https://www.tinymind.com/executions/tpu56fu8
+
+数据集网址：https://www.tinymind.com/zhangsen4698/datasets/zs-week10-dataset
+
+
+
+运行结果为：
+
+运行的log内容：
+
+![log](log.png)
+
+原图:
+
 ![原图](val_1400_img.jpg)
 
 标签
